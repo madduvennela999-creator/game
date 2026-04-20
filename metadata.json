@@ -1,0 +1,6 @@
+{
+  "name": "Neon Serpent Synth",
+  "description": "A cyberpunk-themed Snake game combined with a background AI music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
